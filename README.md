@@ -1,12 +1,11 @@
 # 👋 Hello there, I'm Anthime
-I am a Computer Science student attracted by **Music** and **Video Games Development**. I am learning various programming languages and experimenting to find out what I like.
+Attracted by **Music** and **Video Games Development** I try to learn various programming languages and experiment to find out what I like.
  
 ### Technologies and Tools
-Python, Java, Javascript, C/C++, Unity/C#, SQL, HTML/CSS
+Python, Java, Javascript, C/C++, Unity/C#, SQL
 <br />
 
 ### Projects
-My projects are currently private or not on git until I find myself confident enough to put them out to the world.
 I have been making games (mostly game jams) since february 2020. All the finished games are available on my [Itch.io page](https://kyysel.itch.io).
 I also like spending time doing very short projects on the fly when I have a dumb idea.
 <br />
